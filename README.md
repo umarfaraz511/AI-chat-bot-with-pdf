@@ -190,5 +190,12 @@ model_name="llama-3.3-70b-versatile"
 - Custom CSS UI theming
 
 ---
+<img width="936" height="434" alt="AI PDF 0" src="https://github.com/user-attachments/assets/3f9490f2-7d3a-47a2-9cbb-2e28a13220a6" />
+<img width="941" height="428" alt="AI PDF 1" src="https://github.com/user-attachments/assets/31755542-eb72-4e9b-908c-1c575dd30f35" />
+<img width="908" height="407" alt="AI PDF 2" src="https://github.com/user-attachments/assets/59f29732-4410-4d03-86cf-554f5814ea25" />
+
+
+
+
 
 *Built with Python · LangChain · Groq · FAISS · Streamlit*
